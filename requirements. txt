@@ -1,6 +1,6 @@
-streamlit==1.33.0
-yfinance==0.2.36
-pandas==2.2.2
-scikit-learn==1.4.2
-gtts==2.5.1
-matplotlib==3.8.4
+streamlit
+yfinance
+pandas
+scikit-learn
+gtts
+matplotlib
