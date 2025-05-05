@@ -1,6 +1,5 @@
-streamlit
-yfinance
+yfinance==0.2.36
+streamlit==1.45.0
 pandas
-scikit-learn
-gtts
+numpy
 matplotlib
